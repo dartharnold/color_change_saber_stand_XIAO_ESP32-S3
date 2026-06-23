@@ -23,7 +23,7 @@ The idea was to have a Kyber Crystal in the cradle to change the color of the st
 
 ## Images
 
-![Image of a T-Display with the Droid Toolbox splash screen. It says "Droid Toolbox. Press any key to continue."] (images/IMG_7021.jpg)
+![Image of a T-Display with the Droid Toolbox splash screen. It says "Droid Toolbox. Press any key to continue."](images/IMG_7021.jpg)
 
 ![Default color no crystal](images/IMG_7022.jpg)
 
