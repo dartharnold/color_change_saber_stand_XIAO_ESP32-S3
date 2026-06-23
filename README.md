@@ -23,3 +23,21 @@ The idea was to have a Kyber Crystal in the cradle to change the color of the st
 
 ## Images
 
+![Stand with no power](images/IMG_7021.jpg)
+
+![Default color no crystal](images/IMG_7022.jpg)
+
+![Green crystal](images/IMG_7023.jpg)
+
+![Pueple crystal](images/IMG_7024.jpg)
+
+![Blue crystal](images/IMG_7025.jpg)
+
+![Yellow crystal](images/IMG_7026.jpg)
+
+![Red crystal](images/IMG_7027.jpg)
+
+![White crystal](images/IMG_7028.jpg)
+
+### the Black crystal effect is not well showen in the image but it is a random flickering.
+![Black crystal](images/IMG_7029.jpg)
