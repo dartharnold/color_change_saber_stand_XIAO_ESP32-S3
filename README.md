@@ -43,4 +43,4 @@ The idea was to have a Kyber Crystal in the cradle to change the color of the st
 ![Black crystal](images/IMG_7029.jpeg)
 
 
-If you find any issue or have suggestions to improve on this project please let me know.
+### If you find any issue or have suggestions to improve on this project please let me know.
